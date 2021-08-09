@@ -10,4 +10,6 @@ public class Movie {
 
     // to continue movie
 
+    // this is my awesome stuff
+
 }

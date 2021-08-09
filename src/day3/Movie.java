@@ -9,5 +9,6 @@ public class Movie {
     // watching until 25 mins
 
     // to continue movie
+    // added some imto movie class
 
 }
